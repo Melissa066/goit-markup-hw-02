@@ -38,13 +38,14 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--more-blue);
+    font-style: normal;
 }
 .index {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--more-blue);
+    color: var(--dark-blue);
     text-decoration: none;
 }
 .index:hover {
@@ -57,10 +58,65 @@ body {
 
 .contact {
     color: var(--more-blue);
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 .contact:hover{
     color:#404bbf;
 }
 .contact:focus{
     color: #404bbf;
+}
+.first {
+    color: var(--dark-blue);
+    background-color: var(--dark-blue);
+}
+
+.title{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.btn {
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+
+.btn:hover{
+    background-color: #404bbf;
+}
+.btn:focus{
+    background-color: #404bbf;
+}
+.btn {
+    cursor:pointer;
+}
+
+.title3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--dark-blue);
+}
+.par1 {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.title3 {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--dark-blue);
 }
