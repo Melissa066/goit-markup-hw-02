@@ -3,6 +3,7 @@
     --blue: #4d5ae5;
     --dark-blue: #2e2f42;
     --more-blue: #434455;
+    --light-color: #F4F4FD;
 
 }
 
@@ -139,6 +140,18 @@ body {
     color: var(--dark-blue);
 }
 
-.firstimg{
+.firstimg {
     background-color:  #FFFFFFFF;
+}
+.lastpart{
+    background-color: var(--dark-blue);
+}
+
+.logo-studio-dark-footer {
+    color: #f4f4f4fd;
+}
+.description {
+    line-height: 1.5;
+    color: var(--light-color);
+    letter-spacing: 0.02em;
 }
