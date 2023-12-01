@@ -140,7 +140,7 @@ body {
     color: var(--dark-blue);
 }
 
-.firstimg {
+.ord {
     background-color:  #FFFFFFFF;
 }
 .lastpart{
@@ -148,10 +148,18 @@ body {
 }
 
 .logo-studio-dark-footer {
-    color: #f4f4f4fd;
+    color: #f4f4f4;
 }
 .description {
     line-height: 1.5;
     color: var(--light-color);
     letter-spacing: 0.02em;
+}
+
+.custom-class {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--dark-blue);
 }
