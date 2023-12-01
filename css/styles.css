@@ -42,8 +42,14 @@ body {
 .contacts{
     font-style: normal;
 }
-.list-mail.link{
+.contacts{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--more-blue);
+}
+a.mail-link:hover {
+    color: #404bbf;
+}
+a.mail-link:focus {
+    color: #404bbf;
 }
