@@ -100,14 +100,14 @@ body {
     cursor:pointer;
 }
 
-.title3 {
+.title- {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--dark-blue);
 }
-.par1 {
+.parag {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -119,4 +119,8 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--dark-blue);
+}
+
+.add {
+    font-style: normal;
 }
