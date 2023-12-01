@@ -3,7 +3,7 @@
     --blue: #4d5ae5;
 }
 
-.project {
+body {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: var(--brand-color);
