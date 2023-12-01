@@ -147,8 +147,8 @@ body {
     background-color: var(--dark-blue);
 }
 
-.logo-footer {
-    color: #f4f4f4;
+.lastpart .logo-studio-dark-footer {
+    color: #f4f4f4fd;
 }
 .description {
     line-height: 1.5;
