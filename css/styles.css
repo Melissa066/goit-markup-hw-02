@@ -148,9 +148,6 @@ body {
     background-color: var(--dark-blue);
 }
 
-.logo-studio-dark-footer {
-    color: var(--logo-color);
-}
 .description {
     line-height: 1.5;
     color: var(--light-color);
@@ -172,3 +169,8 @@ body {
 .firsttitle {
     color: var(--more-blue)
 }
+
+
+.logocolor {
+        color: #f4f4f4fd;
+    }
