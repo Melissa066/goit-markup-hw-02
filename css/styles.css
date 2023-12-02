@@ -171,8 +171,8 @@ body {
     color: var(--more-blue)
 }
   
- .lastpart.logo.link.logocolor {
-    color: #f4f4f4fd;
+ .logo {
+    color: #f4f4fd;
 }
 
 .firstbtn {
