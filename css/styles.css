@@ -4,6 +4,7 @@
     --dark-blue: #2e2f42;
     --more-blue: #434455;
     --light-color: #F4F4FD;
+    --logo-color: #f4f4f4fd;
 
 }
 
@@ -147,8 +148,8 @@ body {
     background-color: var(--dark-blue);
 }
 
-.lastpart .logo-studio-dark-footer {
-    color: #f4f4f4fd;
+.logo-studio-dark-footer {
+    color: var(--logo-color);
 }
 .description {
     line-height: 1.5;
@@ -164,10 +165,10 @@ body {
     color: var(--dark-blue);
 }
 
-.lastsection .list li:first-child h3 {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42; 
+.titlefour {
+    background-color: #FFFFFFFF;
+}
+
+.firsttitle {
+    color: var(--more-blue)
 }
