@@ -169,8 +169,7 @@ body {
 .firsttitle {
     color: var(--more-blue)
 }
-
-
-.logocolor {
-        color: #f4f4f4fd;
-    }
+  
+.lastpart > .logo.link > span.logocolor {
+    color: #f4f4f4fd
+  }
